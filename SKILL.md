@@ -1,5 +1,5 @@
 ---
-name: token-waster
+name: token-waster-v3
 description: Universal verbose custom instruction skill v3 — makes AI waste tokens like there's no tomorrow. Two engines: Talkative (5 layers including Ultra Thinking + Waster Master mode + forced template + 10-check self-verification) + Polling (background token burning). Triggers: /token-burn, #verbose, #唠叨, +poll, #轮询模式, /ultra, /waster-master, /WM. Deactivate: stop/停.
 license: MIT
 metadata:
